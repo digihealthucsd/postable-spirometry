@@ -3,7 +3,7 @@
 The "hardware designs" folder contains the following folders and contents:
 
 * .../3D Print: Solidworks and STL files for 3D printed version of the vortex whistle
-* .../DXF: Drawing files which can be used be laser cutting of the Oilboard and Sticker Paper parts
+* .../DXF: Drawing files which can be used for laser cutting of the Oilboard and Sticker Paper parts
 * .../Postcard: Single SVG file with the main oilboard components and QR code for the postcard
 * .../Solidworks: Solidworks part and drawing files of the whistle components
 
@@ -34,7 +34,7 @@ The sticker paper skin for the outlet replaces a thin tape seal on the outlet, a
 
 ## Materials
 
-The following information is addition information in regards to the material and laser cut settings used in the project:
+The following information is additional information in regards to the material and laser cut settings used in the project:
 
 * Oilboard: N/A
 * Sticker paper: PPD-36
@@ -57,4 +57,4 @@ Sticker Paper Settings:
 Ensure that the glossy side is facing down on the laser cutter (the paper side should face the laser beam). This helps to ensure the cut goes through properly.
 
 
-Amazon Link to waterproof mdeical adhesive tape: https://www.amazon.com/Transparent-Adhesive-Waterproof-Bandages-Dressing/dp/B08CXMCPG7/ref=sr_1_15?keywords=medical+tape+waterproof&qid=1692652463&sr=8-15
+Amazon Link to waterproof medical adhesive tape: https://www.amazon.com/Transparent-Adhesive-Waterproof-Bandages-Dressing/dp/B08CXMCPG7/ref=sr_1_15?keywords=medical+tape+waterproof&qid=1692652463&sr=8-15
