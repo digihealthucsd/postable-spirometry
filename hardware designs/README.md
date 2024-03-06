@@ -16,7 +16,7 @@ The "hardware designs" folder contains the following folders and contents:
 The Oilboard Core and Sticker Paper Outlet Skin files comprise the drawings needed for the laser cut components of the low cost vortex whistle. All dimensions were initially based upon the spirocall paper (https://dl.acm.org/doi/10.1145/2858036.2858401), but has been slightly modified through iterations of the project. They generally remain similar to their original dimensions in the Spirocall paper.
 
 
-Full construction of a low cost vortex whistle can be seen in a guide. This guide can be found in the QR code of the postcard design located at ".../Postcard/postSpiro.svg". The process consists of taking the oilboard core pieces and putting them together in the same shape as a 3D printed vortex whistle model. To tape pieces together and seal connections to be airtight, use waterproof medical adhesive tape (very thin, flexible, amazon link below for reference). The sticker paper is used to seal the outlet of the whistle and join it to the top face of the whistle (labelled base 3).
+Full construction of a low cost vortex whistle can be seen in a guide. This guide can be found in the QR code of the postcard design located at ".../Postcard/postableSpirometry.svg". The process consists of taking the oilboard core pieces and putting them together in the same shape as a 3D printed vortex whistle model. To tape pieces together and seal connections to be airtight, use waterproof medical adhesive tape (very thin, flexible, amazon link below for reference). The sticker paper is used to seal the outlet of the whistle and join it to the top face of the whistle (labelled base 3).
 
 
 ## Components
