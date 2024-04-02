@@ -16,10 +16,10 @@ The "hardware-designs" folder contains the following folders and contents:
 The Oilboard Core and Sticker Paper Outlet Skin files comprise the drawings needed for the laser cut components of the low cost vortex whistle. All dimensions were initially based upon the spirocall paper (https://dl.acm.org/doi/10.1145/2858036.2858401), but has been slightly modified through iterations of the project. They generally remain similar to their original dimensions in the Spirocall paper.
 \
 \
-In order to created a more streamlined process for users, the postcard design contains all needed pieces in a single image file (an example can be found at ".../postcard/postableSpirometry.svg"). Additionally, this postcard design could include a QR code which links to an assembly guide to aid users in assembly of the whistle.
+In order to created a more streamlined process for users, the postcard design contains all needed pieces in a single image file. An example can be found [here](postcard) (at ".../postcard/postableSpirometry.svg"). Additionally, this postcard design could include a QR code which links to an assembly guide to aid users in assembly of the whistle.
 \
 \
-The process of assembly consists of taking the oilboard core pieces and putting them together in the same shape as a 3D printed vortex whistle model. To tape pieces together and seal connections to be airtight, use waterproof medical adhesive tape (very thin, flexible, amazon link below for reference). The sticker paper is used to seal the outlet of the whistle and join it to the top face of the whistle (labelled base 3).
+The process of assembly consists of taking the oilboard core pieces and putting them together in the same shape as a 3D printed vortex whistle model. To tape pieces together and seal connections to be airtight, use waterproof medical adhesive tape (very thin, flexible, amazon link below for reference). The sticker paper is used to seal the outlet of the whistle and join it to the top face of the whistle (labelled base 3). An example assembly guide can be found [here](assembly-guide) (at ".../assembly-guide")
 
 
 ## Components
