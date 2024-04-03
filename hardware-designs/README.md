@@ -19,7 +19,7 @@ The Oilboard Core and Sticker Paper Outlet Skin files comprise the drawings need
 In order to created a more streamlined process for users, the postcard design contains all needed pieces in a single image file. An example can be found [here](postcard) (at ".../postcard/postableSpirometry.svg"). Additionally, this postcard design could include a QR code which links to an assembly guide to aid users in assembly of the whistle.
 \
 \
-The process of assembly consists of taking the oilboard core pieces and putting them together in the same shape as a 3D printed vortex whistle model. To tape pieces together and seal connections to be airtight, use waterproof medical adhesive tape (very thin, flexible, amazon link below for reference). The sticker paper is used to seal the outlet of the whistle and join it to the top face of the whistle (labelled base 3). An example assembly guide can be found [here](assembly-guide) (at ".../assembly-guide")
+The process of assembly consists of taking the oilboard core pieces and putting them together in the same shape as a 3D printed vortex whistle model. To tape pieces together and seal connections to be airtight, use waterproof medical adhesive tape (very thin, flexible, amazon link below for reference). The sticker paper is used to seal the outlet of the whistle and join it to the top face of the whistle (labeled base 3). An example assembly guide can be found [here](assembly-guide) (at ".../assembly-guide")
 
 
 ## Components
