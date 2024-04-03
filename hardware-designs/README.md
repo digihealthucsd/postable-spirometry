@@ -6,7 +6,7 @@ The "hardware-designs" folder contains the following folders and contents:
 * .../dxf: Drawing files which can be used for laser cutting of the Oilboard and Sticker Paper parts
 * .../postcard: Single SVG file with the main oilboard components and QR code for the postcard
 * .../solidworks: Solidworks part and drawing files of the whistle components
-
+* .../assembly-guide: Example assembly guide for the postcard design
 
 
 # DESIGN
