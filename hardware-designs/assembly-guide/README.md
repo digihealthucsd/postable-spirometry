@@ -47,8 +47,8 @@ This assembly guide contains a potential assembly process for creating a postabl
 
 ![join_outlet_body3](images/b3_1.jpg)
 
-7.  Tape the outlet to fit over the inner hole of the upper base (body-3 component) of the whistle.
-   * If desired for use, the sticker paper skin can be instead applied around the outlet, with the tabbed pieces folded back. When joining these pieces, the tabs will be flush with and stick to the surface of the upper base. Tape can then be applied over the same seam of the components to ensure a proper seal between the upper base and outlet.
+7. Tape the outlet to fit over the inner hole of the upper base (body-3 component) of the whistle.
+   * (Optional) If desired for use, the sticker paper skin can be instead applied around the outlet, with the tabbed pieces folded back. When joining these pieces, the tabs will be flush with and stick to the surface of the upper base. Tape can then be applied over the same seam of the components to ensure a proper seal between the upper base and outlet.
 
 ![finish_whistle](images/final.jpg)  
 
@@ -59,4 +59,4 @@ This assembly guide contains a potential assembly process for creating a postabl
 
 ![funnel](images/funnel.jpg)
 
-9. If desired, the funnel component can be used by folding and sealing the edges of the laser-cut piece, then by sliding the narrow end over the inlet of the whistle and sealing the connection with tape.
+9. (Optional) If desired, the funnel component can be used by folding and sealing the edges of the laser-cut piece, then by sliding the narrow end over the inlet of the whistle and sealing the connection with tape.
