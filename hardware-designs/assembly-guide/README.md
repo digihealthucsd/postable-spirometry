@@ -54,3 +54,9 @@ This assembly guide contains a potential assembly process for creating a postabl
 
 8.  In a similar process to the lower base (body-2) component, tape the upper base piece to the top of the main body, ensuring no gaps.
    * To increase air tightness of the device, tape can be added around the gap between the inlet and the main body if desired.
+
+
+
+![funnel](images/funnel.jpg)
+
+9. If desired, the funnel component can be used by folding and sealing the edges of the laser-cut piece, then by sliding the narrow end over the inlet of the whistle and sealing the connection with tape.

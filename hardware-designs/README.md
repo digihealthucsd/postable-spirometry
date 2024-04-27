@@ -13,7 +13,7 @@ The "hardware-designs" folder contains the following folders and contents:
 
 ## Main Design
 
-The Oilboard Core and Sticker Paper Outlet Skin files comprise the drawings needed for the laser cut components of the low cost vortex whistle. All dimensions were initially based upon the spirocall paper (https://dl.acm.org/doi/10.1145/2858036.2858401), but has been slightly modified through iterations of the project. They generally remain similar to their original dimensions in the Spirocall paper.
+The Oilboard Core and Sticker Paper Outlet Skin files comprise the drawings needed for the laser cut components of the low cost vortex whistle. All dimensions were initially based upon the spirocall paper (https://dl.acm.org/doi/10.1145/2858036.2858401), but has been slightly modified through iterations of the project. They generally remain similar to their original dimensions in the Spirocall paper. Additionally, a funnel component exists to adapt the whistle inlet to a conventional spirometer inlet/ mouthpiece size.
 \
 \
 In order to created a more streamlined process for users, the postcard design contains all needed pieces in a single image file. An example can be found [here](postcard) (at ".../postcard/postableSpirometry.svg"). Additionally, this postcard design could include a QR code which links to an assembly guide to aid users in assembly of the whistle.
@@ -31,6 +31,7 @@ The oilboard core is the primary structure for the whistle. It consists of the f
 * Base 3: Upper face of the whistle which join to base 1 and the outlet. Has internal circle for outlet.
 * Outlet: Outlet nozzle which sits on top of base 3. Fold to join the 27mm sides
 * Inlet: Inlet nozzle with tabs to fold outward to seat better in the main whistle body, and also create the needed angle for the entering air. The two thinner tabs are to be joined together when folding the inlet and face the top of the whistle when the inlet is seated in base 1 (through the small hole cutout).
+* Funnel: Funnel component to slot over the whistle inlet and adapt it to a larger spirometer mouthpiece size
 
 The sticker paper skin for the outlet replaces a thin tape seal on the outlet, and also has tabs which are folded back during construction. When joining base 3 and the outlet, these sticker paper tabs hold both pieces together, before the thin tape is added on top for a better air seal. 
 
